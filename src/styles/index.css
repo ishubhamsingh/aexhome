@@ -1,0 +1,18 @@
+body {
+    margin: 0px;
+    -webkit-font-smoothing: antialiased;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+      monospace;
+  }
+
+  .content-div {
+      padding: 1rem 1rem;
+  }
+
+  .changelog-wrapper {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }

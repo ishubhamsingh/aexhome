@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import {BrowserRouter as Router, Route } from 'react-router-dom';
 import PropTypes from 'prop-types';
 import { createMuiTheme, MuiThemeProvider, withStyles} from '@material-ui/core/styles';
 import CssBaseline from '@material-ui/core/CssBaseline';
+import Sidenav from './Sidenav';
+import Home from './Home';
 
 
 const theme = createMuiTheme({
@@ -76,9 +78,10 @@ class App extends Component {
       <div className="App">
       <CssBaseline />
       <div className={classes.root}>
+      <Sidenav />
       <main className={classes.content}>
       <div className={classes.toolbar} />
-
+      <Route exact path='/' component={Home} />
       </main>
       </div>
       </div>
