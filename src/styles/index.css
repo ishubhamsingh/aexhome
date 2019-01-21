@@ -16,3 +16,12 @@ body {
     white-space: pre-wrap;
     word-wrap: break-word;
   }
+
+  .ava:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    height: 70px;
+    width: 70px;
+    background-image: url(../images/notfound.png);
+  }

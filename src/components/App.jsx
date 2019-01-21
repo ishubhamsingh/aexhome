@@ -5,6 +5,7 @@ import { createMuiTheme, MuiThemeProvider, withStyles} from '@material-ui/core/s
 import CssBaseline from '@material-ui/core/CssBaseline';
 import Sidenav from './Sidenav';
 import Home from './Home';
+import Team from './Team';
 
 
 const theme = createMuiTheme({
@@ -82,6 +83,7 @@ class App extends Component {
       <main className={classes.content}>
       <div className={classes.toolbar} />
       <Route exact path='/' component={Home} />
+      <Route exact path='/team' component={Team} />
       </main>
       </div>
       </div>

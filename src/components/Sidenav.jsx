@@ -16,6 +16,7 @@ import MyAppbar from './MyAppbar';
 import {Link} from 'react-router-dom';
 import { SmartphoneOutlined, HomeOutlined, ImageOutlined, AccountCircleOutlined } from '@material-ui/icons';
 import Typography from '@material-ui/core/Typography';
+import androidVersions from '../helpers/androidVersions.json';
 
 const drawerWidth = 300;
 
@@ -78,20 +79,6 @@ class Sidenav extends React.Component {
 
 
   render() {
-    const androidVersions = [
-        {
-            name:'Nougat',
-            code:'nougat',
-        },
-        {
-            name:'Oreo',
-            code:'oreo'
-        },
-        {
-            name:'Pie',
-            code:'pie'
-        }
-    ]
     const { classes } = this.props;
 
     const drawer = (
