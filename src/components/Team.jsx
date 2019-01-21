@@ -40,7 +40,7 @@ class Team extends Component {
           data.map((member,index)=>{
               return(
                 <Grid item xs={12} md={4} key={index}>
-                <Card className={classes.paper}>
+                <Card>
                 {
                     _.isEmpty(member.github) 
                     ?           

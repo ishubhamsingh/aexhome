@@ -1,11 +1,13 @@
 import React, { Component } from 'react';
-import {BrowserRouter as Router, Route } from 'react-router-dom';
+import {BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import PropTypes from 'prop-types';
 import { createMuiTheme, MuiThemeProvider, withStyles} from '@material-ui/core/styles';
 import CssBaseline from '@material-ui/core/CssBaseline';
 import Sidenav from './Sidenav';
 import Home from './Home';
 import Team from './Team';
+import Devices from './Devices';
+import Error from './Error';
 
 
 const theme = createMuiTheme({
@@ -82,8 +84,12 @@ class App extends Component {
       <Sidenav />
       <main className={classes.content}>
       <div className={classes.toolbar} />
+      <Switch>
       <Route exact path='/' component={Home} />
       <Route exact path='/team' component={Team} />
+      <Route exact path='/devices/:androidVersion' component={Devices} />
+      <Route render={(props)=> <Error {...props} message="Page not found" />} />
+      </Switch>
       </main>
       </div>
       </div>
