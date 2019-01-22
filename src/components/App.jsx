@@ -8,7 +8,7 @@ import Home from './Home';
 import Team from './Team';
 import Devices from './Devices';
 import Error from './Error';
-
+import Gallery from './Gallery'
 
 const theme = createMuiTheme({
     typography: {
@@ -87,6 +87,7 @@ class App extends Component {
       <Switch>
       <Route exact path='/' component={Home} />
       <Route exact path='/team' component={Team} />
+      <Route exact path='/gallery' component={Gallery} />
       <Route exact path='/devices/:androidVersion' component={Devices} />
       <Route render={(props)=> <Error {...props} message="Page not found" />} />
       </Switch>
