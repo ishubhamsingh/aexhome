@@ -13,6 +13,7 @@ import ExpandMore from '@material-ui/icons/ExpandMore';
 import Hidden from '@material-ui/core/Hidden';
 import Divider from '@material-ui/core/Divider';
 import MyAppbar from './MyAppbar';
+import Footer from './Footer';
 import {Link} from 'react-router-dom';
 import { SmartphoneOutlined, HomeOutlined, ImageOutlined, AccountCircleOutlined } from '@material-ui/icons';
 import Typography from '@material-ui/core/Typography';
@@ -29,6 +30,9 @@ const styles = theme => ({
   },
   icon: {
     color: theme.palette.secondary.main
+  },
+  grow: {
+    flexGrow: 1,
   },
   toolbarIe11: {
     display: 'flex',
@@ -159,6 +163,8 @@ class Sidenav extends React.Component {
             }}
           >
             {drawer}
+            <div className={classes.grow} />
+            <Footer />
           </Drawer>
         </Hidden>
         <Hidden xsDown implementation="css">
@@ -170,6 +176,8 @@ class Sidenav extends React.Component {
             }}
           >
             {drawer}
+            <div className={classes.grow} />
+            <Footer />
           </Drawer>
         </Hidden>
         </nav>
