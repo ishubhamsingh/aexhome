@@ -13,7 +13,7 @@
         "type": "image/png"
     }
   ],
-  "start_url": "https://home.aospextended.com",
+  "start_url": "https://aospextended.com",
   "display": "standalone",
   "theme_color": "#332d4f",
   "background_color": "#242038"
