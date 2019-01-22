@@ -9,6 +9,8 @@ import Team from './Team';
 import Devices from './Devices';
 import Error from './Error';
 import Gallery from './Gallery'
+import * as Constants from '../helpers/constants';
+import Analytics from 'react-router-ga';
 
 const theme = createMuiTheme({
     typography: {
@@ -77,6 +79,7 @@ class App extends Component {
     const { classes } = this.props;
     return (
       <Router>
+      <Analytics id={Constants.GA_ID}>
       <MuiThemeProvider theme={theme}>
       <div className="App">
       <CssBaseline />
@@ -95,6 +98,7 @@ class App extends Component {
       </div>
       </div>
       </MuiThemeProvider>
+      </Analytics>
       </Router>  
     )
   }
