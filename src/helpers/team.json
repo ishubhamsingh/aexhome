@@ -1,58 +1,62 @@
-[
-    {
+{
+    "leads": [
+        {
         "name": "Shubham Singh",
         "description": "Founder & Lead developer",
         "bio": "A proud Indian | A Mistake Maker | A Learner | A Tech-Enthusiast",
         "github": "https://github.com/ishubhamsingh",
         "xda": "https://forum.xda-developers.com/member.php?u=5566914",
         "telegram": "https://t.me/ishubhamsingh"
-    },
-    {
-        "name": "AmyClaraRose",
-        "description": "Nexus 6P Maintainer",
-        "bio": "Gamer and Technology Geek",
-        "github": "https://github.com/minidude2012",
-        "xda": "https://forum.xda-developers.com/member.php?u=5545311",
-        "telegram": "https://t.me/AmyClaraRose"
-    },
-    {
-        "name": "Atman Shah",
-        "description": "Whyred Maintainer",
-        "bio": "17 | AEX for Whyred | TwistLoop Kernel for Whyred | Enjoying what I do!",
-        "github": "https://github.com/twistloop",
-        "xda": "https://forum.xda-developers.com/member.php?u=8970650",
-        "telegram": "https://t.me/twistloop"
-    },
-    {
-        "name": "Lakshay Garg",
-        "description": "Bullhead Maintainer",
-        "bio": "Android Developer | 16 Years Old | Technology And Space Science Enthusiast",
-        "github": "https://github.com/lakgarg",
-        "xda": "https://forum.xda-developers.com/member.php?u=9537214",
-        "telegram": "https://t.me/planckton"
-    },
-    {
-        "name": "Alessandro Astone",
-        "description": "LG G2 Maintainer",
-        "bio": "Open Source enthusiast",
-        "github": "https://github.com/YoDevil",
-        "xda": "https://forum.xda-developers.com/member.php?u=4742143",
-        "telegram": "https://t.me/aleasto"
-    },
-    {
-        "name": "Enes Sastim",
-        "description": "Jason Maintainer",
-        "bio": "Some other guy in this huge world | Student | Google fan",
-        "github": "https://github.com/EnesSastim",
-        "xda": "https://forum.xda-developers.com/member.php?u=7730768",
-        "telegram": "https://t.me/enessastim"
-    },
-    {
-        "name": "Erik Garcia",
-        "description": "Rolex/Riva Maintainer",
-        "bio": "19 | Brazilian | Student of Information Systems | Tecnology Lover | Control is an illusion?",
-        "github": "https://github.com/ECr34T1v3",
-        "xda": "https://forum.xda-developers.com/member.php?u=6364365",
-        "telegram": "https://t.me/ECr34T1v3"
-    }
-]
+        }
+    ],
+    "contributors": [
+        {
+            "name": "AmyClaraRose",
+            "description": "Nexus 6P Maintainer",
+            "bio": "Gamer and Technology Geek",
+            "github": "https://github.com/minidude2012",
+            "xda": "https://forum.xda-developers.com/member.php?u=5545311",
+            "telegram": "https://t.me/AmyClaraRose"
+        },
+        {
+            "name": "Atman Shah",
+            "description": "Whyred Maintainer",
+            "bio": "17 | AEX for Whyred | TwistLoop Kernel for Whyred | Enjoying what I do!",
+            "github": "https://github.com/twistloop",
+            "xda": "https://forum.xda-developers.com/member.php?u=8970650",
+            "telegram": "https://t.me/twistloop"
+        },
+        {
+            "name": "Lakshay Garg",
+            "description": "Bullhead Maintainer",
+            "bio": "Android Developer | 16 Years Old | Technology And Space Science Enthusiast",
+            "github": "https://github.com/lakgarg",
+            "xda": "https://forum.xda-developers.com/member.php?u=9537214",
+            "telegram": "https://t.me/planckton"
+        },
+        {
+            "name": "Alessandro Astone",
+            "description": "LG G2 Maintainer",
+            "bio": "Open Source enthusiast",
+            "github": "https://github.com/YoDevil",
+            "xda": "https://forum.xda-developers.com/member.php?u=4742143",
+            "telegram": "https://t.me/aleasto"
+        },
+        {
+            "name": "Enes Sastim",
+            "description": "Jason Maintainer",
+            "bio": "Some other guy in this huge world | Student | Google fan",
+            "github": "https://github.com/EnesSastim",
+            "xda": "https://forum.xda-developers.com/member.php?u=7730768",
+            "telegram": "https://t.me/enessastim"
+        },
+        {
+            "name": "Erik Garcia",
+            "description": "Rolex/Riva Maintainer",
+            "bio": "19 | Brazilian | Student of Information Systems | Tecnology Lover | Control is an illusion?",
+            "github": "https://github.com/ECr34T1v3",
+            "xda": "https://forum.xda-developers.com/member.php?u=6364365",
+            "telegram": "https://t.me/ECr34T1v3"
+        }
+    ]
+}
