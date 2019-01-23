@@ -24,27 +24,19 @@
         "telegram": "https://t.me/twistloop"
     },
     {
-        "name": "Lakshay Garg",
-        "description": "Bullhead Maintainer",
-        "bio": "Android Developer | 16 Years Old | Technology And Space Science Enthusiast",
-        "github": "https://github.com/lakgarg",
-        "xda": "https://forum.xda-developers.com/member.php?u=9537214",
-        "telegram": "https://t.me/planckton"
-    },
-    }
-        "name": "Alessandro Astone",
-        "description": "LG G2 Maintainer",
-        "bio": "Open Source enthusiast",
-        "github": "https://github.com/YoDevil",
-        "xda": "https://forum.xda-developers.com/member.php?u=4742143",
-        "telegram": "https://t.me/aleasto"
-    },
-    }
         "name": "Enes Sastim",
         "description": "Jason Maintainer",
         "bio": "Some other guy in this huge world | Student | Google fan",
         "github": "https://github.com/EnesSastim",
         "xda": "https://forum.xda-developers.com/member.php?u=7730768",
         "telegram": "https://t.me/enessastim"
+    },
+    {
+        "name": "Erik Garcia",
+        "description": "Rolex/Riva Maintainer",
+        "bio": "19 | Brazilian | Student of Information Systems | Tecnology Lover | Control is an illusion?",
+        "github": "https://github.com/ECr34T1v3",
+        "xda": "https://forum.xda-developers.com/member.php?u=6364365",
+        "telegram": "https://t.me/ECr34T1v3"
     }
 ]
