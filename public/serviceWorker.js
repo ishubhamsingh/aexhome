@@ -1,5 +1,5 @@
 // Flag for enabling cache in production
-var doCache = true;
+var doCache = false;
 
 var CACHE_NAME = 'aexhome-app-cache';
 

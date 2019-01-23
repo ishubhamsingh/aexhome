@@ -1,9 +1,20 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types';
-import { withStyles, Typography, Divider } from '@material-ui/core';
+import { withStyles, Typography, IconButton } from '@material-ui/core';
+import Icon from '@mdi/react';
+import * as Mdi from '@mdi/js';
+import footerLinks from '../helpers/footerLinks';
 
 const styles = theme => ({
-  footer: {
+  footerLinks: {
+    backgroundColor: theme.palette.primary.dark,
+    padding: theme.spacing.unit,
+    display: 'flex',
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  footerCredits: {
     padding: theme.spacing.unit * 2,
     display: 'flex',
     flexDirection: 'row',
@@ -19,11 +30,23 @@ const styles = theme => ({
 
 class Footer extends Component {
   render() {
-    const { classes } = this.props;
+    const { classes, theme } = this.props;
     return (
       <div>
-      <Divider variant="fullWidth" />
-      <div className={classes.footer}>
+      <div className={classes.footerLinks} >
+      {
+        footerLinks.map((link) => {
+          return (
+            <a key={link.name} href={link.url} target="_blank" rel="noopener noreferrer">
+            <IconButton>
+            <Icon path={Mdi[link.icon]} size={0.8} color={theme.palette.secondary.main} />
+            </IconButton>
+            </a>
+          )
+        })
+      }
+      </div>
+      <div className={classes.footerCredits}>
       <Typography
       color="textPrimary"
       >

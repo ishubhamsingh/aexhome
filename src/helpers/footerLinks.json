@@ -1,0 +1,27 @@
+[
+    {
+        "name":"Github",
+        "url":"https://github.com/AospExtended",
+        "icon":"mdiGithubCircle"
+    },
+    {
+        "name":"Gerrit",
+        "url":"http://gerrit.aospextended.com",
+        "icon":"mdiGit"
+    },
+    {
+        "name":"Crowdin",
+        "url":"https://translate.aospextended.com",
+        "icon":"mdiTranslate"
+    },
+    {
+        "name":"Paypal",
+        "url":"https://paypal.me/ishubhamsingh",
+        "icon":"mdiPaypal"
+    },
+    {
+        "name":"Telegram",
+        "url":"https://t.me/aospextendedgroup",
+        "icon":"mdiTelegram"
+    }
+]
