@@ -14,5 +14,13 @@
         "github": "https://github.com/twistloop",
         "xda": "https://forum.xda-developers.com/member.php?u=8970650",
         "telegram": "https://t.me/twistloop"
+    },
+    {
+        "name": "Enes Sastim",
+        "description": "Jason Maintainer",
+        "bio": "Some other guy in this huge world | Student | Google fan",
+        "github": "https://github.com/EnesSastim",
+        "xda": "https://forum.xda-developers.com/member.php?u=7730768",
+        "telegram": "https://t.me/enessastim"
     }
 ]
