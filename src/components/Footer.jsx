@@ -15,7 +15,7 @@ const styles = theme => ({
     justifyContent: 'center',
   },
   footerCredits: {
-    padding: theme.spacing.unit * 2,
+    padding: theme.spacing.unit,
     display: 'flex',
     flexDirection: 'row',
     alignItems: 'center',
