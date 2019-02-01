@@ -99,12 +99,20 @@
             "telegram": "https://t.me/brunowp8"
         },
         {
+            "name": "Shaik Jaleel",
+            "description": "Yu Yunique (jalebi) Maintainer",
+            "bio": "20 | Indian | Android Developer | Engineering Student | Civil Engineer",
+            "github": "https://github.com/iamsj7",
+            "xda": "https://forum.xda-developers.com/member.php?u=8426240",
+            "telegram": "https://t.me/iamsj7"
+        },
+        {
             "name": "Davide Della Maddalena",
             "description": "Zuk Z2 Manteiner",
             "bio": "Android enthusiast | Vintage audio lover | Industrial Technical",
             "github": "https://github.com/davidevinavil",
             "xda": "https://forum.xda-developers.com/member.php?u=2823824",
             "telegram": "https://t.me/dmd79"
-        }  
+        }
     ]
 }
