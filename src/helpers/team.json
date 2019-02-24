@@ -1,207 +1,206 @@
 {
-    "leads": [
-        {
-        "name": "Shubham Singh",
-        "description": "Founder & Lead developer",
-        "bio": "A proud Indian | A Mistake Maker | A Learner | A Tech-Enthusiast",
-        "github": "https://github.com/ishubhamsingh",
-        "xda": "https://forum.xda-developers.com/member.php?u=5566914",
-        "telegram": "https://t.me/ishubhamsingh"
-        },
-        {
-        "name": "Amol Amrit",
-        "description": "Moderator & Developer",
-        "bio": "A guy with lots of hobbies | Nightwing | UnnamedDream",
-        "github": "https://github.com/amolamrit",
-        "xda": "https://forum.xda-developers.com/member.php?u=5615686",
-        "telegram": "https://t.me/amolamrit"
-        }
-        
-    ],
-    "contributors": [
-        {
-            "name": "Abhinav Gupta (Agrd1129)",
-            "description": "Yu Yuphoria Maintainer",
-            "bio": "Error404",
-            "github": "https://github.com/abhinavgupta371",
-            "xda": "https://forum.xda-developers.com/member.php?u=6754297",
-            "telegram": "https://t.me/Agrd1129"
-        },                                                             
-        {
-            "name": "AmyClaraRose",
-            "description": "Nexus 6P Maintainer",
-            "bio": "Gamer and Technology Geek",
-            "github": "https://github.com/minidude2012",
-            "xda": "https://forum.xda-developers.com/member.php?u=5545311",
-            "telegram": "https://t.me/AmyClaraRose"
-        },
-        {
-            "name": "Atman Shah",
-            "description": "Whyred Maintainer",
-            "bio": "17 | AEX for Whyred | TwistLoop Kernel for Whyred | Enjoying what I do!",
-            "github": "https://github.com/twistloop",
-            "xda": "https://forum.xda-developers.com/member.php?u=8970650",
-            "telegram": "https://t.me/twistloop"
-        },
-        {
-            "name": "Lakshay Garg",
-            "description": "Bullhead Maintainer",
-            "bio": "Android Developer | 16 Years Old | Technology And Space Science Enthusiast",
-            "github": "https://github.com/lakgarg",
-            "xda": "https://forum.xda-developers.com/member.php?u=9537214",
-            "telegram": "https://t.me/planckton"
-        },
-        {
-            "name": "Alessandro Astone",
-            "description": "LG G2 Maintainer",
-            "bio": "Open Source enthusiast",
-            "github": "https://github.com/YoDevil",
-            "xda": "https://forum.xda-developers.com/member.php?u=4742143",
-            "telegram": "https://t.me/aleasto"
-        },
-        {
-            "name": "Enes Sastim",
-            "description": "Jason Maintainer",
-            "bio": "Some other guy in this huge world | Student | Google fan",
-            "github": "https://github.com/EnesSastim",
-            "xda": "https://forum.xda-developers.com/member.php?u=7730768",
-            "telegram": "https://t.me/enessastim"
-        },
-        {
-            "name": "Erik Garcia",
-            "description": "Rolex/Riva Maintainer",
-            "bio": "19 | Brazilian | Student of Information Systems | Tecnology Lover | Control is an illusion?",
-            "github": "https://github.com/ECr34T1v3",
-            "xda": "https://forum.xda-developers.com/member.php?u=6364365",
-            "telegram": "https://t.me/ECr34T1v3"
-        },
-        {
-            "name": "Akash Srivastava",
-            "description": "Oneplus3/Oneplus6 Maintainer",
-            "bio": "18 | Someone lost in this World | Student of Chemical-Engineering | Guitarist",
-            "github": "https://github.com/markakash",
-            "xda": "https://forum.xda-developers.com/member.php?u=5970333",
-            "telegram": "https://t.me/markakash"
-        },
-        {
-            "name": "Priyesh Yadav (PS217)",
-            "description": "Santoni Maintainer",
-            "bio": "🇮🇳🦅🛦| Curiosity Inside | A Life-Time Learner | Viva la Vida ",
-            "github": "https://github.com/ps217",
-            "xda": "https://forum.xda-developers.com/member.php?u=7172096",
-            "telegram": "https://t.me/psdashing"
-        },
-        {
-            "name": "Shubham Bhise",
-            "description": "Lenovo ZUK Z1(ham) Maintainer",
-            "bio": "22 | Indian | Android enthusiast | Student | Foodie",
-            "github": "https://github.com/sb6596",
-            "xda": "https://forum.xda-developers.com/member.php?u=7666467",
-            "telegram": "https://t.me/sb6596"
-        },
-        {
-            "name": "Joshua Primero",
-            "description": "HLTE Maintainer",
-            "bio": "18 | Eminem Fan | Filipino Pride | Android Enthusiast | All eyez on me!!",
-            "github": "https://github.com/Jprimero15",
-            "xda": "https://forum.xda-developers.com/member.php?u=6561802",
-            "telegram": "https://t.me/jprimero15"
-        },
-        {
-            "name": "Bruno Santos",
-            "description": "Galaxy S5 Maintainer",
-            "bio": "Android enthusiast | Technology lover | Gamer",
-            "github": "https://github.com/brunowp8",
-            "xda": "https://forum.xda-developers.com/member.php?u=7759939",
-            "telegram": "https://t.me/brunowp8"
-        },
-        {
-            "name": "Tirth Patel",
-            "description": "Redmi Note 4/4X (mido) Maintainer",
-            "bio": "Gamer | Network Engineer | Tech Enthusiasist | IT Student",
-            "github": "https://github.com/thp1997",
-            "xda": "https://forum.xda-developers.com/member.php?u=7354828",
-            "telegram": "https://t.me/thp1997"
-        },
-        {
-            "name": "Shaik Jaleel",
-            "description": "Yu Yunique (jalebi) Maintainer",
-            "bio": "20 | Indian | Android Developer | Engineering Student | Civil Engineer",
-            "github": "https://github.com/iamsj7",
-            "xda": "https://forum.xda-developers.com/member.php?u=8426240",
-            "telegram": "https://t.me/iamsj7"
-        },
-        {
-            "name": "Davide Della Maddalena",
-            "description": "Zuk Z2 Manteiner",
-            "bio": "Android enthusiast | Vintage audio lover | Industrial Technical",
-            "github": "https://github.com/davidevinavil",
-            "xda": "https://forum.xda-developers.com/member.php?u=2823824",
-            "telegram": "https://t.me/dmd79"
-        },
-        {
-            "name": "Arian",
-            "description": "Xiaomi Mi 6 (sagit) Maintainer",
-            "bio": "16 Years Old | Playing Ping-Pong | Student | 🇩🇪 | ¯\\_(ツ)_/¯",
-            "github": "https://github.com/ArianK16a",
-            "xda": "https://forum.xda-developers.com/member.php?u=8746471",
-            "telegram": "https://t.me/ArianK16a"
-        },
-        {
-            "name": "Steve Provancal",
-            "description": "Google Pixel 2 XL (taimen) Maintainer",
-            "bio": "American Android Enthusiast | Despises Socialists and Communists",
-            "github": "https://github.com/slothdabski",
-            "xda": "https://forum.xda-developers.com/member.php?u=6864870",
-            "telegram": "https://t.me/steveproski"
-        },
-        {
-        "name": "Amulya Bhardwaj",
-        "description": "Xiaomi Redmi 5 Plus (vince) Maintainer",
-        "bio": "20 YO | Loves Android and VoLTE | CSE Student | Tech Geek",
-        "github": "https://github.com/AmulyaX",
-        "xda": "https://forum.xda-developers.com/member.php?u=6409818",
-        "telegram": "https://t.me/AmulyaX"
-        },
-        {
-        "name": "Nick van Bokhorst (GtrCraft)",
-        "description": "Moto G5 Plus (potter) Maintainer",
-        "bio": "Android lover, Apple hater",
-        "github": "https://github.com/GtrCraft",
-        "xda": "https://forum.xda-developers.com/member.php?u=5293805",
-        "telegram": ""
-        },
-        {
-        "name": "Darshan M.",
-        "description": "Smartron srtphone (rimo02a) Maintainer",
-        "bio": "\u00AF\\_(\u30C4)_/\u00AF",
-        "github": "https://github.com/darshan1205",
-        "xda": "https://forum.xda-developers.com/member.php?u=6620830",
-        "telegram": "https://t.me/darshan1205"
-        },
-        {
-        "name": "Prasoon Mehra (phantom-1402)",
-        "description": "Former OnePlus 2, 3/3T Maintainer, Moderator",
-        "bio": "Just a normal guy",
-        "github": "https://github.com/phantom-1402",
-        "xda": "https://forum.xda-developers.com/member.php?u=5947980",
-        "telegram": "https://t.me/phantom_1402"
-        },
-        {
-            "name": "Akash Mondal (Akash98Sky)",
-            "description": "LeEco Le 2(s2) Maintainer",
-            "bio": "Joyful as always!",
-            "github": "https://github.com/Akash98Sky",
-            "xda": "https://forum.xda-developers.com/member.php?u=9260323",
-            "telegram": "https://t.me/Akash98Sky"
-        },
-        {
-            "name": "Sakil Mondal",
-            "description": "Asus Zenfone Max (Z010D) Maintainer",
-            "bio": "Android Lover | Learner | Indian | Civil Engineer",
-            "github": "https://github.com/SakilMondal",
-            "xda": "https://forum.xda-developers.com/member.php?u=6151980",
-            "telegram": "https://t.me/SakilMondal"
-        }
-    ]
+  "leads": [
+    {
+      "name": "Shubham Singh",
+      "description": "Founder & Lead developer",
+      "bio": "A proud Indian | A Mistake Maker | A Learner | A Tech-Enthusiast",
+      "github": "https://github.com/ishubhamsingh",
+      "xda": "https://forum.xda-developers.com/member.php?u=5566914",
+      "telegram": "https://t.me/ishubhamsingh"
+    },
+    {
+      "name": "Amol Amrit",
+      "description": "Moderator & Developer",
+      "bio": "A guy with lots of hobbies | Nightwing | UnnamedDream",
+      "github": "https://github.com/amolamrit",
+      "xda": "https://forum.xda-developers.com/member.php?u=5615686",
+      "telegram": "https://t.me/amolamrit"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Abhinav Gupta (Agrd1129)",
+      "description": "Yu Yuphoria Maintainer",
+      "bio": "Error404",
+      "github": "https://github.com/abhinavgupta371",
+      "xda": "https://forum.xda-developers.com/member.php?u=6754297",
+      "telegram": "https://t.me/Agrd1129"
+    },
+    {
+      "name": "AmyClaraRose",
+      "description": "Nexus 6P Maintainer",
+      "bio": "Gamer and Technology Geek",
+      "github": "https://github.com/minidude2012",
+      "xda": "https://forum.xda-developers.com/member.php?u=5545311",
+      "telegram": "https://t.me/AmyClaraRose"
+    },
+    {
+      "name": "Atman Shah",
+      "description": "Whyred Maintainer",
+      "bio": "17 | AEX for Whyred | TwistLoop Kernel for Whyred | Enjoying what I do!",
+      "github": "https://github.com/twistloop",
+      "xda": "https://forum.xda-developers.com/member.php?u=8970650",
+      "telegram": "https://t.me/twistloop"
+    },
+    {
+      "name": "Lakshay Garg",
+      "description": "Bullhead Maintainer",
+      "bio": "Android Developer | 16 Years Old | Technology And Space Science Enthusiast",
+      "github": "https://github.com/lakgarg",
+      "xda": "https://forum.xda-developers.com/member.php?u=9537214",
+      "telegram": "https://t.me/planckton"
+    },
+    {
+      "name": "Alessandro Astone",
+      "description": "LG G2 Maintainer",
+      "bio": "Open Source enthusiast",
+      "github": "https://github.com/YoDevil",
+      "xda": "https://forum.xda-developers.com/member.php?u=4742143",
+      "telegram": "https://t.me/aleasto"
+    },
+    {
+      "name": "Enes Sastim",
+      "description": "Jason Maintainer",
+      "bio": "Some other guy in this huge world | Student | Google fan",
+      "github": "https://github.com/EnesSastim",
+      "xda": "https://forum.xda-developers.com/member.php?u=7730768",
+      "telegram": "https://t.me/enessastim"
+    },
+    {
+      "name": "Erik Garcia",
+      "description": "Rolex/Riva Maintainer",
+      "bio": "19 | Brazilian | Student of Information Systems | Tecnology Lover | Control is an illusion?",
+      "github": "https://github.com/ECr34T1v3",
+      "xda": "https://forum.xda-developers.com/member.php?u=6364365",
+      "telegram": "https://t.me/ECr34T1v3"
+    },
+    {
+      "name": "Akash Srivastava",
+      "description": "Oneplus3/Oneplus6 Maintainer",
+      "bio": "18 | Someone lost in this World | Student of Chemical-Engineering | Guitarist",
+      "github": "https://github.com/markakash",
+      "xda": "https://forum.xda-developers.com/member.php?u=5970333",
+      "telegram": "https://t.me/markakash"
+    },
+    {
+      "name": "Priyesh Yadav (PS217)",
+      "description": "Santoni Maintainer",
+      "bio": "🇮🇳🦅🛦| Curiosity Inside | A Life-Time Learner | Viva la Vida ",
+      "github": "https://github.com/ps217",
+      "xda": "https://forum.xda-developers.com/member.php?u=7172096",
+      "telegram": "https://t.me/psdashing"
+    },
+    {
+      "name": "Shubham Bhise",
+      "description": "Lenovo ZUK Z1(ham) Maintainer",
+      "bio": "22 | Indian | Android enthusiast | Student | Foodie",
+      "github": "https://github.com/sb6596",
+      "xda": "https://forum.xda-developers.com/member.php?u=7666467",
+      "telegram": "https://t.me/sb6596"
+    },
+    {
+      "name": "Joshua Primero",
+      "description": "HLTE Maintainer",
+      "bio": "18 | Eminem Fan | Filipino Pride | Android Enthusiast | All eyez on me!!",
+      "github": "https://github.com/Jprimero15",
+      "xda": "https://forum.xda-developers.com/member.php?u=6561802",
+      "telegram": "https://t.me/jprimero15"
+    },
+    {
+      "name": "Bruno Santos",
+      "description": "Galaxy S5 Maintainer",
+      "bio": "Android enthusiast | Technology lover | Gamer",
+      "github": "https://github.com/brunowp8",
+      "xda": "https://forum.xda-developers.com/member.php?u=7759939",
+      "telegram": "https://t.me/brunowp8"
+    },
+    {
+      "name": "Tirth Patel",
+      "description": "Redmi Note 4/4X (mido) Maintainer",
+      "bio": "Gamer | Network Engineer | Tech Enthusiasist | IT Student",
+      "github": "https://github.com/thp1997",
+      "xda": "https://forum.xda-developers.com/member.php?u=7354828",
+      "telegram": "https://t.me/thp1997"
+    },
+    {
+      "name": "Shaik Jaleel",
+      "description": "Yu Yunique (jalebi) Maintainer",
+      "bio": "20 | Indian | Android Developer | Engineering Student | Civil Engineer",
+      "github": "https://github.com/iamsj7",
+      "xda": "https://forum.xda-developers.com/member.php?u=8426240",
+      "telegram": "https://t.me/iamsj7"
+    },
+    {
+      "name": "Davide Della Maddalena",
+      "description": "Zuk Z2 Manteiner",
+      "bio": "Android enthusiast | Vintage audio lover | Industrial Technical",
+      "github": "https://github.com/davidevinavil",
+      "xda": "https://forum.xda-developers.com/member.php?u=2823824",
+      "telegram": "https://t.me/dmd79"
+    },
+    {
+      "name": "Arian",
+      "description": "Xiaomi Mi 6 (sagit) Maintainer",
+      "bio": "16 Years Old | Playing Ping-Pong | Student | 🇩🇪 | ¯\\_(ツ)_/¯",
+      "github": "https://github.com/ArianK16a",
+      "xda": "https://forum.xda-developers.com/member.php?u=8746471",
+      "telegram": "https://t.me/ArianK16a"
+    },
+    {
+      "name": "Steve Provancal",
+      "description": "Google Pixel 2 XL (taimen) Maintainer",
+      "bio": "American Android Enthusiast | Despises Socialists and Communists",
+      "github": "https://github.com/slothdabski",
+      "xda": "https://forum.xda-developers.com/member.php?u=6864870",
+      "telegram": "https://t.me/steveproski"
+    },
+    {
+      "name": "Amulya Bhardwaj",
+      "description": "Xiaomi Redmi 5 Plus (vince) Maintainer",
+      "bio": "20 YO | Loves Android and VoLTE | CSE Student | Tech Geek",
+      "github": "https://github.com/AmulyaX",
+      "xda": "https://forum.xda-developers.com/member.php?u=6409818",
+      "telegram": "https://t.me/AmulyaX"
+    },
+    {
+      "name": "Nick van Bokhorst (GtrCraft)",
+      "description": "Moto G5 Plus (potter) Maintainer",
+      "bio": "Android lover, Apple hater",
+      "github": "https://github.com/GtrCraft",
+      "xda": "https://forum.xda-developers.com/member.php?u=5293805",
+      "telegram": ""
+    },
+    {
+      "name": "Darshan M.",
+      "description": "Smartron srtphone (rimo02a) Maintainer",
+      "bio": "¯\\_(ツ)_/¯",
+      "github": "https://github.com/darshan1205",
+      "xda": "https://forum.xda-developers.com/member.php?u=6620830",
+      "telegram": "https://t.me/darshan1205"
+    },
+    {
+      "name": "Prasoon Mehra (phantom-1402)",
+      "description": "Former OnePlus 2, 3/3T Maintainer, Moderator",
+      "bio": "Just a normal guy",
+      "github": "https://github.com/phantom-1402",
+      "xda": "https://forum.xda-developers.com/member.php?u=5947980",
+      "telegram": "https://t.me/phantom_1402"
+    },
+    {
+      "name": "Akash Mondal (Akash98Sky)",
+      "description": "LeEco Le 2(s2) Maintainer",
+      "bio": "Joyful as always!",
+      "github": "https://github.com/Akash98Sky",
+      "xda": "https://forum.xda-developers.com/member.php?u=9260323",
+      "telegram": "https://t.me/Akash98Sky"
+    },
+    {
+      "name": "Sakil Mondal",
+      "description": "Asus Zenfone Max (Z010D) Maintainer",
+      "bio": "Android Lover | Learner | Indian | Civil Engineer",
+      "github": "https://github.com/SakilMondal",
+      "xda": "https://forum.xda-developers.com/member.php?u=6151980",
+      "telegram": "https://t.me/SakilMondal"
+    }
+  ]
 }
