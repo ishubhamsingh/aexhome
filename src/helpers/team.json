@@ -67,22 +67,6 @@
       "telegram": "https://t.me/ECr34T1v3"
     },
     {
-      "name": "Akash Srivastava",
-      "description": "Oneplus3/Oneplus6 Maintainer",
-      "bio": "18 | Someone lost in this World | Student of Chemical-Engineering | Guitarist",
-      "github": "https://github.com/markakash",
-      "xda": "https://forum.xda-developers.com/member.php?u=5970333",
-      "telegram": "https://t.me/markakash"
-    },
-    {
-      "name": "Priyesh Yadav (PS217)",
-      "description": "Santoni Maintainer",
-      "bio": "🇮🇳🦅🛦| Curiosity Inside | A Life-Time Learner | Viva la Vida ",
-      "github": "https://github.com/ps217",
-      "xda": "https://forum.xda-developers.com/member.php?u=7172096",
-      "telegram": "https://t.me/psdashing"
-    },
-    {
       "name": "Shubham Bhise",
       "description": "Lenovo ZUK Z1(ham) Maintainer",
       "bio": "22 | Indian | Android enthusiast | Student | Foodie",
@@ -124,7 +108,7 @@
     },
     {
       "name": "Amulya Bhardwaj",
-      "description": "Xiaomi Redmi 5 Plus (vince) Maintainer",
+      "description": "Vince | Lavender Maintainer",
       "bio": "20 YO | Loves Android and VoLTE | CSE Student | Tech Geek",
       "github": "https://github.com/AmulyaX",
       "xda": "https://forum.xda-developers.com/member.php?u=6409818",
@@ -185,6 +169,14 @@
       "github": "https://github.com/mhkjahromi",
       "xda": "https://forum.xda-developers.com/member.php?u=6540480",
       "telegram": "https://t.me/mhkjahromi"
+    },
+    {
+      "name": "Atman Shah",
+      "description": "Violet Maintainer",
+      "bio": "17 | AEX for Violet | TwistLoop Kernel for Whyred | Enjoying what I do!",
+      "github": "https://github.com/twistloop",
+      "xda": "https://forum.xda-developers.com/member.php?u=8970650",
+      "telegram": "https://t.me/twistloop"
     }
   ]
 }
