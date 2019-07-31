@@ -10,7 +10,7 @@
     "@mdi/react": "^1.1.0",
     "axios": "^0.18.0",
     "lodash": "^4.17.13",
-    "react": "^16.7.0",
+    "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-loading": "^2.0.3",
     "react-photo-gallery": "^6.3.4",
