@@ -13,7 +13,7 @@
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-loading": "^2.0.3",
-    "react-photo-gallery": "^6.3.0",
+    "react-photo-gallery": "^6.3.4",
     "react-redux": "^6.0.0",
     "react-router-dom": "^4.3.1",
     "react-router-ga": "^1.0.0",
