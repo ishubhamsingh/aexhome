@@ -1316,10 +1316,10 @@
   resolved "https://registry.yarnpkg.com/@mdi/js/-/js-3.3.92.tgz#2abc43c7215b271626e1094cea9093030ea2d655"
   integrity sha512-l+12IwTycHlijWMiRWBAssm0RSgkQiwMthIy/EcBAdSqtnsHnFjHq+aI2MBZ8/AYX0QBxNUv4+EN0SXZgNkWDg==
 
-"@mdi/react@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@mdi/react/-/react-1.1.0.tgz#22b014e40152adbe0d7d36631fc9979854603c7a"
-  integrity sha512-c0+avMYEZ6i7Pg1ULLFs+p7k8bDPiie9rrgGYs8VWQhw2tUUYz7r0lIPVzD3bzMghWfyhfkArj88K5Of0WTMNw==
+"@mdi/react@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@mdi/react/-/react-1.2.1.tgz#24279784e080728e953f3c1a71f49c64031dee47"
+  integrity sha512-1IRIVCT07vlLmaZjVtGfyfwCMivg/tCtPj0+r1BKrkoh9z4xLf+M1TD0LhjJPO+4+O0ibW+xrNRvf+boRRtX9A==
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
