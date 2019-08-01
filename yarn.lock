@@ -8540,10 +8540,10 @@ react-loading@^2.0.3:
   resolved "https://registry.yarnpkg.com/react-loading/-/react-loading-2.0.3.tgz#e8138fb0c3e4674e481b320802ac7048ae14ffb9"
   integrity sha512-Vdqy79zq+bpeWJqC+xjltUjuGApyoItPgL0vgVfcJHhqwU7bAMKzysfGW/ADu6i0z0JiOCRJjo+IkFNkRNbA3A==
 
-react-photo-gallery@^6.3.4:
-  version "6.3.4"
-  resolved "https://registry.yarnpkg.com/react-photo-gallery/-/react-photo-gallery-6.3.4.tgz#0bda4d9060fe08bc350066a84c7854e636dabcf6"
-  integrity sha512-G3Trhk/DiGWQHV3ZtP9cNdaIT9ujybp/nNpzHrQLd3nijWaJqqGuGp73y+S3H5zx3DxQKlaOraTX9mdkXC08eA==
+react-photo-gallery@^8.0.0:
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/react-photo-gallery/-/react-photo-gallery-8.0.0.tgz#04ff9f902a2342660e63e6817b4f010488db02b8"
+  integrity sha512-Y9458yygEB9cIZAWlBWuenlR+ghin1RopmmU3Vice8BeJl0Se7hzfxGDq8W1armB/ic/kphGg+G1jq5fOEd0sw==
   dependencies:
     prop-types "~15.7.2"
     resize-observer-polyfill "^1.5.0"
