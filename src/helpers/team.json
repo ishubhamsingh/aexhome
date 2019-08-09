@@ -107,14 +107,6 @@
       "telegram": "https://t.me/steveproski"
     },
     {
-      "name": "Amulya Bhardwaj",
-      "description": "Vince | Lavender Maintainer",
-      "bio": "20 YO | Loves Android and VoLTE | CSE Student | Tech Geek",
-      "github": "https://github.com/AmulyaX",
-      "xda": "https://forum.xda-developers.com/member.php?u=6409818",
-      "telegram": "https://t.me/AmulyaX"
-    },
-    {
       "name": "Nick van Bokhorst (GtrCraft)",
       "description": "Moto G5 Plus (potter) Maintainer",
       "bio": "Android lover, Apple hater",
@@ -169,14 +161,6 @@
       "github": "https://github.com/mhkjahromi",
       "xda": "https://forum.xda-developers.com/member.php?u=6540480",
       "telegram": "https://t.me/mhkjahromi"
-    },
-    {
-      "name": "Atman Shah",
-      "description": "Violet Maintainer",
-      "bio": "17 | AEX for Violet | TwistLoop Kernel for Whyred | Enjoying what I do!",
-      "github": "https://github.com/twistloop",
-      "xda": "https://forum.xda-developers.com/member.php?u=8970650",
-      "telegram": "https://t.me/twistloop"
     }
   ]
 }
