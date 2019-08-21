@@ -1311,10 +1311,10 @@
     prop-types "^15.6.0"
     react-is "^16.6.3"
 
-"@mdi/js@^3.8.95":
-  version "3.8.95"
-  resolved "https://registry.yarnpkg.com/@mdi/js/-/js-3.8.95.tgz#bc25ef11c475fdc6368dab1588e1ee93f724f286"
-  integrity sha512-oiJlKx33YNJrTiKG70oJq0uEKHr9lGNvWHXIglXOzq57rJ80qr/xst5j7ERPmEBe84ZfPiB6ZxwjpMjkQoifDA==
+"@mdi/js@^4.1.95":
+  version "4.1.95"
+  resolved "https://registry.yarnpkg.com/@mdi/js/-/js-4.1.95.tgz#2339bc40766c7c030e8b1ee3738117bfa695bcc5"
+  integrity sha512-yWJrAa7rAzGEAQQ4gvb6dpzoOXF+bvQI53TQaV4YNWDoCVkfJD6tIGbou06UJH+ZFZ6Rlo7kA+xWn4E3kPJlvw==
 
 "@mdi/react@^1.2.1":
   version "1.2.1"
