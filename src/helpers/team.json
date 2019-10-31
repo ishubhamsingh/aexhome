@@ -23,6 +23,14 @@
       "github": "https://github.com/firelord",
       "xda": "https://forum.xda-developers.com/member.php?u=6257538",
       "telegram": "https://t.me/firelord1"
+    },
+    {
+      "name": "Arghya Chanda",
+      "description": "Moderator & Developer",
+      "bio": "AEX for Whyred | A Tech-Connoisseur",
+      "github": "https://github.com/arghyac35",
+      "xda": "https://forum.xda-developers.com/member.php?u=8037603",
+      "telegram": "https://t.me/arghyac35"
     }
   ],
   "contributors": [
@@ -33,14 +41,6 @@
       "github": "https://github.com/abhinavgupta371",
       "xda": "https://forum.xda-developers.com/member.php?u=6754297",
       "telegram": "https://t.me/Agrd1129"
-    },
-    {
-      "name": "Arghya Chanda",
-      "description": "Redmi Note 5 Pro Maintainer",
-      "bio": "AEX for Whyred | A Tech-Connoisseur",
-      "github": "https://github.com/arghyac35",
-      "xda": "https://forum.xda-developers.com/member.php?u=8037603",
-      "telegram": "https://t.me/arghyac35"
     },
     {
       "name": "Lakshay Garg",
@@ -57,22 +57,6 @@
       "github": "https://github.com/YoDevil",
       "xda": "https://forum.xda-developers.com/member.php?u=4742143",
       "telegram": "https://t.me/aleasto"
-    },
-    {
-      "name": "Enes Sastim",
-      "description": "Jason Maintainer",
-      "bio": "Some other guy in this huge world | Student | Google fan",
-      "github": "https://github.com/EnesSastim",
-      "xda": "https://forum.xda-developers.com/member.php?u=7730768",
-      "telegram": "https://t.me/enessastim"
-    },
-    {
-      "name": "Erik Garcia",
-      "description": "Rolex/Riva Maintainer",
-      "bio": "19 | Brazilian | Student of Information Systems | Tecnology Lover | Control is an illusion?",
-      "github": "https://github.com/ECr34T1v3",
-      "xda": "https://forum.xda-developers.com/member.php?u=6364365",
-      "telegram": "https://t.me/ECr34T1v3"
     },
     {
       "name": "Shubham Bhise",
@@ -108,7 +92,7 @@
     },
     {
       "name": "Steve Provancal",
-      "description": "Google Pixel 2 XL (taimen) Maintainer",
+      "description": "Google Pixel 3 XL (crosshatch) Maintainer",
       "bio": "American Android Enthusiast | Despises Socialists and Communists",
       "github": "https://github.com/slothdabski",
       "xda": "https://forum.xda-developers.com/member.php?u=6864870",
@@ -121,22 +105,6 @@
       "github": "https://github.com/GtrCraft",
       "xda": "https://forum.xda-developers.com/member.php?u=5293805",
       "telegram": ""
-    },
-    {
-      "name": "Darshan M.",
-      "description": "Realme 3Pro (RMX1851) Maintainer",
-      "bio": "¯\\_(ツ)_/¯",
-      "github": "https://github.com/darshan1205",
-      "xda": "https://forum.xda-developers.com/member.php?u=6620830",
-      "telegram": "https://t.me/darshan1205"
-    },
-    {
-      "name": "Prasoon Mehra (phantom-1402)",
-      "description": "Former OnePlus 2, 3/3T Maintainer, Moderator",
-      "bio": "Just a normal guy",
-      "github": "https://github.com/phantom-1402",
-      "xda": "https://forum.xda-developers.com/member.php?u=5947980",
-      "telegram": "https://t.me/phantom_1402"
     },
     {
       "name": "Akash Mondal (Akash98Sky)",
