@@ -77,6 +77,7 @@ const theme = createMuiTheme({
 class App extends Component {
   render() {
     const { classes } = this.props;
+    const date = new Date();
     return (
       <Router>
       <Analytics id={Constants.GA_ID}>
@@ -85,6 +86,44 @@ class App extends Component {
       <CssBaseline />
       <div className={classes.root}>
       <Sidenav />
+  {(((date.getDate() >= 20 && date.getDate() <= 31) && date.getMonth() + 1 === 12) || (date.getDate() <= 5 && date.getMonth() + 1 === 1)) && (<div className="snowflakes" aria-hidden="true">
+  <div className="snowflake">
+  ❅
+  </div>
+  <div className="snowflake">
+  ❆
+  </div>
+  <div className="snowflake">
+  ❅
+  </div>
+  <div className="snowflake">
+  ❆
+  </div>
+  <div className="snowflake">
+  ❅
+  </div>
+  <div className="snowflake">
+  ❆
+  </div>
+  <div className="snowflake">
+    ❅
+  </div>
+  <div className="snowflake">
+    ❆
+  </div>
+  <div className="snowflake">
+    ❅
+  </div>
+  <div className="snowflake">
+    ❆
+  </div>
+  <div className="snowflake">
+    ❅
+  </div>
+  <div className="snowflake">
+    ❆
+  </div>
+  </div> ) }
       <main className={classes.content}>
       <div className={classes.toolbar} />
       <Switch>
