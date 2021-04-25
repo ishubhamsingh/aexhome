@@ -97,19 +97,19 @@ const photos = [
   
     },
     {
-      src: require(‘../images/gallery/gallery_17.png’),
+      src: require('../images/gallery/gallery_17.png'),
       height: 16,
       width: 9
   
     },
     {
-      src: require(‘../images/gallery/gallery_18.png’),
+      src: require('../images/gallery/gallery_18.png'),
       height: 16,
       width: 9
   
     },
     {
-      src: require(‘../images/gallery/gallery_19.png’),
+      src: require('../images/gallery/gallery_19.png'),
       height: 16,
       width: 9
   
