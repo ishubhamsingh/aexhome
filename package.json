@@ -9,7 +9,7 @@
     "@mdi/js": "^4.4.95",
     "@mdi/react": "^1.4.0",
     "axios": "^0.19.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "^16.13.1",
     "react-dom": "^16.13.0",
     "react-loading": "^2.0.3",
