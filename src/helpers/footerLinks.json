@@ -23,5 +23,10 @@
         "name":"Telegram",
         "url":"https://t.me/aospextendedgroup",
         "icon":"mdiTelegram"
+    },
+    {
+        "name":"Twitter",
+        "url":"https://twitter.com/aospextendedrom",
+        "icon":"mdiTwitter"
     }
 ]
