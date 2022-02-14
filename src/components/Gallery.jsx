@@ -107,12 +107,6 @@ const photos = [
       height: 16,
       width: 9
   
-    },
-    {
-      src: require('../images/gallery/gallery_19.png'),
-      height: 16,
-      width: 9
-  
     }
   ];
 
